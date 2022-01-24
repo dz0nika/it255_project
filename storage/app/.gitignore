@@ -1,0 +1,11 @@
+*
+!documents/
+!documents/*
+!main_documents/
+!main_documents/*
+!sections/
+!sections/*
+!posts/
+!posts/*
+!public/
+!.gitignore
